@@ -1,16 +1,26 @@
-### Hi there 👋
+### Moin
 
-<!--
-**MarcelJenner/MarcelJenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Ich bin *Marcel Jenner* - Seit 2018 ausgebildeter *Fachinformatiker für Anwendungsentwicklung*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mein Herz schlägt für **Backend-Development** mit **ASP.NET**.
+
+---
+
+
+### Tech-Stack
+
+<img src = "https://img.shields.io/badge/-C%23-512bd4?style=flat&logo=dotnet&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-.NET 5-512bd4?style=flat&logo=dotnet&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-ASP.NET-512bd4?style=flat&logo=dotnet&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-Nginx-169100?style=flat&logo=nginx&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-Jenkins-darkred?style=flat&logo=jenkins&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=Docker&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> 
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> 
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marceljenner&show_icons=true&hide_border=true)
